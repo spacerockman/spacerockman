@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Xinchen</h1>
+<h1 align="center">Hi 👋, I'm JOJO</h1>
 
 <h3 align="center">
 AI / LLM Engineer | Generative AI • RAG • AI Agents
